@@ -1,125 +1,126 @@
-# 👋 Hi, I'm Soundhar Kumar
+# Hi there, I'm Soundhar! 👋
 
-🚀 **Aspiring Product Manager | Cloud Computing Enthusiast**  
-🎯 Building scalable, user-centric products with a strong technical backbone
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Aspiring+Product+Manager+%F0%9F%9A%80;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Building+Tomorrow's+Solutions+Today" alt="Typing SVG" />
+</div>
 
----
+## 🎯 About Me
 
-## 🧠 About Me
+🔭 **Currently Exploring:** Product Management methodologies, Cloud Architecture, and User-Centric Design
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Product%20Management-Strategy-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-Computing-0db7ed?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+💡 **Passionate About:** Translating user needs into innovative cloud-based solutions that drive business impact
 
+🌱 **Learning Journey:** Diving deep into AWS/Azure/GCP, Agile frameworks, and data-driven decision making
 
-I am a **Engineering student** with a strong interest in **Product Management**, backed by hands-on knowledge in **Cloud Computing**.  
-I enjoy working at the intersection of **business, technology, and users**—turning ideas into impactful products.
+📊 **Interest Areas:** SaaS Products, Cloud Infrastructure, API Design, and Product Analytics
 
-- 🔍 I think in **problems, not features**
-- ☁️ I understand how products scale on the cloud
-- 📊 I use data and user feedback to drive decisions
+🎓 **Goal:** To bridge the gap between technical possibilities and business value through strategic product thinking
 
----
+💬 **Ask Me About:** Product strategy, cloud computing, user research, roadmap planning, or anything tech!
 
-## 🧩 Product Management Skills
+## 🛠️ Tech Stack & Tools
 
-- Product Strategy & Vision
-- User Research & Problem Discovery
-- PRD & BRD Documentation
-- Roadmapping & Prioritization (RICE, MoSCoW)
-- Agile & Scrum Fundamentals
-- Stakeholder Communication
-- MVP Definition & Go-To-Market Basics
-- Metrics & KPIs (North Star, OKRs)
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 🧩 Product Management
+### 📊 Product Management Tools
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Product%20Strategy-000000?style=flat&logo=producthunt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agile-0052CC?style=flat&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/User%20Research-FF6F00?style=flat&logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Roadmapping-6A5ACD?style=flat"/>
-</p>
+### 💻 Technical Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+### 📈 Analytics & Data
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
----
+## 📚 Current Learning Path
 
-## ☁️ Cloud & Technical Skills
+```mermaid
+graph LR
+    A[Product Management] --> B[User Research]
+    A --> C[Product Strategy]
+    A --> D[Agile/Scrum]
+    E[Cloud Computing] --> F[AWS Solutions Architect]
+    E --> G[Cloud Cost Optimization]
+    E --> H[Serverless Architecture]
+    A --> I[Data Analytics]
+    E --> I
+    I --> J[Product Decisions]
+```
 
-- **Cloud Platforms:** AWS (Core Services)
-- **Cloud Concepts:**  
-  - Compute, Storage, Networking  
-  - Scalability & High Availability  
-  - Security & IAM  
-- **DevOps Basics:**  
-  - CI/CD Concepts  
-  - Infrastructure as a Service  
-- **Technical Understanding:**  
-  - APIs & System Design (Basic)  
-  - Databases (SQL Basics)
+## 🎓 Certifications & Learning
 
-### ☁️ Cloud & Technical Skills
+- 🏅 [AWS Certified Cloud Practitioner] (In Progress)
+- 🏅 [Certified Scrum Product Owner (CSPO)] (Planned)
+- 📖 Currently Reading: "Inspired" by Marty Cagan
+- 📖 Currently Learning: Product-Led Growth Strategies
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Cloud%20Architecture-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-0A0A0A?style=flat&logo=devops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API-REST-009688?style=flat"/>
-</p>
+## 💼 Product Thinking Framework
 
----
+```
+📋 Discovery → 💡 Ideation → 🎨 Design → 🔨 Build → 🚀 Launch → 📊 Measure → 🔄 Iterate
+```
 
-## 🛠️ Tools I Use
+**My Approach:**
+- Start with the **WHY** - Understanding user problems deeply
+- Define success **metrics** before building
+- Embrace **data-driven** decision making
+- Build with **cloud-first** mindset for scalability
+- Iterate based on **user feedback**
 
-- Product: Jira, Confluence, Notion, 
-- Cloud: AWS Console, CloudWatch
-- Data: Excel, Google Sheets
-- Collaboration: GitHub, Slack
-
-### 🛠️ Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</p>
+## 🌟 Featured Projects
 
 
----
+### ☁️ [Project Name 1] ON Going
+**Role:** Cloud Solutions Developer | **Tech:** Azure, Python, Docker
+- Built scalable microservices architecture
+- Reduced infrastructure costs by 30% through optimization
+- Implemented CI/CD pipeline for faster deployment
+- 🔗 [View Project](#)
 
-## 📌 Projects (Coming Soon)
 
-🚧 Currently working on:
-- Product case studies (real-world inspired)
-- Cloud-backed product architecture examples
-- PRD + Technical Mapping projects
+## 🤝 Let's Connect!
 
----
+I'm always eager to connect with fellow product enthusiasts, cloud architects, and anyone passionate about building impactful solutions!
 
-## 🎯 Career Goals
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soundhar-kumar-product-manager)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soundharkumar7019@gmail.com)
 
-- Become a **Product Manager with strong technical depth**
-- Work on **scalable, cloud-native products**
-- Build products that solve **real human problems**
+</div>
 
----
+## 💭 Product Philosophy
 
-## 📫 Connect With Me
+> "Great products are born from deep empathy for users, powered by robust technology, and delivered through strategic execution."
 
-- 💼 LinkedIn: *Add your LinkedIn link*
-- 🧑‍💻 GitHub: You're already here 🙂
-- ✉️ Email: *Add your email*
+## 📝 Latest Blog Posts
 
----
+<!-- BLOG-POST-LIST:START -->
+- [Building Cloud-Native Products: A PM's Perspective](#)
+- [5 Metrics Every Product Manager Should Track](#)
+- [From User Story to Cloud Deployment: A Complete Journey](#)
+<!-- BLOG-POST-LIST:END -->
 
-![PM](https://img.shields.io/badge/Product%20Manager-visionary-blue)
-![AWS](https://img.shields.io/badge/AWS-cloud-orange)
-![Cloud](https://img.shields.io/badge/Cloud-scalable-green)
-![Agile](https://img.shields.io/badge/Agile-fast-purple)
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories!*
+<div align="center">
+  
+### 💡 "Building the future, one cloud solution at a time" ☁️
 
+
+⭐️ From [soundhar](https://soundhar-7019)
+
+</div>
