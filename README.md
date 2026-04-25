@@ -1,118 +1,118 @@
 <div align="center">
 
-<!-- Circuit Board Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:003300,80:004d00,100:00ff41&height=220&section=header&text=Soundhar%20Kumar&fontSize=52&fontColor=00ff41&fontAlignY=38&desc=Embedded%20Engineer%20%7C%20VLSI%20Designer%20%7C%20ECE%20Undergraduate&descAlignY=60&descSize=18&descColor=39ff14" width="100%"/>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0d2b,80:1a1a4e,100:4f46e5&height=220&section=header&text=S.K.Soundhar&fontSize=52&fontColor=a78bfa&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20Engineer%20%7C%20CS%20Undergraduate&descAlignY=60&descSize=18&descColor=818cf8" width="100%"/>
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&random=false&width=900&lines=Embedded+Systems+Engineer+in+the+Making;VLSI+%7C+RTL+Design+%7C+FPGA+%7C+SoC;Low-Level+Programmer+%26+Hardware+Hacker;Verilog+%7C+VHDL+%7C+SystemVerilog+%7C+C%2FC%2B%2B;From+Silicon+to+System+—+Building+the+Future" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&background=000000&center=true&vCenter=true&random=false&width=900&lines=Backend+Engineer+in+the+Making;Python+%7C+Django+%7C+FastAPI+%7C+REST+APIs;Database+Design+%26+System+Architecture;DSA+%7C+Problem+Solving+%7C+Clean+Code;From+Code+to+Cloud+—+Building+Scalable+Systems" alt="Typing SVG" />
 
 ---
 
 ## ⚡ `$ whoami`
 
-<img align="right" alt="Circuit Board Animation" width="360" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding Animation" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```verilog
-module soundhar_kumar (
-  input  wire clk,          // Passion for Hardware
-  input  wire rst_n,        // Never Give Up
-  output reg  [7:0] goal    // Dream Destination
-);
+```python
+class SKSoundhar:
+    def __init__(self):
+        self.name        = "S.K. Soundhar"
+        self.degree      = "B.E. / B.Tech — Computer Science"
+        self.location    = "Tamil Nadu, India"
+        self.role        = "Aspiring Backend Developer"
 
-  // Personal Parameters
-  parameter DEGREE    = "B.E. Electronics & Communication";
-  parameter BRANCH    = "ECE Undergraduate";
-  parameter LOCATION  = "Tamil Nadu, India";
+    @property
+    def interests(self) -> list[str]:
+        return [
+            "Backend System Design",
+            "REST & GraphQL APIs",
+            "Database Engineering",
+            "Cloud Infrastructure",
+            "DevOps & CI/CD",
+            "Distributed Systems",
+            "Open Source Contribution",
+        ]
 
-  // Core Interests
-  always @(posedge clk or negedge rst_n) begin
-    if (!rst_n)
-      goal <= 8'h00;
-    else begin
-      goal[0] <= VLSI_Design;
-      goal[1] <= Embedded_Systems;
-      goal[2] <= FPGA_Development;
-      goal[3] <= RTL_Engineering;
-      goal[4] <= SoC_Architecture;
-      goal[5] <= Low_Power_Design;
-      goal[6] <= Verification;
-      goal[7] <= Signal_Integrity;
-    end
-  end
+    def current_status(self) -> str:
+        return "Grinding DSA + Building Projects + Applying for Jobs 🚀"
 
-endmodule
+    def life_goal(self) -> str:
+        return "Write code that scales to millions. ∞"
+
+me = SKSoundhar()
+print(me.current_status())
+# Output: Grinding DSA + Building Projects + Applying for Jobs 🚀
 ```
 
-🔌 **Driven by** silicon-level thinking, hardware architecture, and building things that work at the lowest level
+🐍 **Driven by** clean architecture, scalable APIs, and back-end logic that just works
 
-🏆 **Targeting** VLSI Design Engineer | Embedded Firmware Engineer | FPGA Developer roles at semiconductor companies (Intel, Qualcomm, Texas Instruments, ARM, NVIDIA, Cadence, Synopsys)
+🏆 **Targeting** Backend Developer | Python Engineer | Software Development Engineer roles at product-based companies
 
-🧩 **Expert in**  Microcontroller programming, hardware-software co-design, and digital logic synthesis
+🧩 **Expert in** Python ecosystem — from scripting to production-grade web services
 
-📚 **Currently preparing for** GATE | Campus Placements | Core ECE Recruitment
+📚 **Currently preparing for** SDE Campus Placements | FAANG Off-Campus | Core CS Interviews
 
-🔍 **Core strengths** — Digital design, timing analysis, bare-metal programming, schematic reading, and PCB debugging
+🔍 **Core strengths** — REST API design, ORM-based DB modeling, problem solving, and writing readable, maintainable code
 
-⚡ **Love for** FPGAs, microcontrollers, oscilloscopes, and turning circuit diagrams into working silicon
-
+⚡ **Love for** terminal windows, clean git histories, and services that handle 10x the expected load
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Hardware & Software Toolkit
+## 🛠️ Backend & Software Toolkit
 
 <div align="center">
 
-### ⚙️ HDL & Hardware Description
+### 🐍 Core Languages
 
-![Verilog](https://img.shields.io/badge/Verilog-FF6B35?style=for-the-badge&logo=v&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-007396?style=for-the-badge&logo=v&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge&logo=systemverilog&logoColor=white)
-![UVM](https://img.shields.io/badge/UVM-8B0000?style=for-the-badge&logo=v&logoColor=white)
-
-### 💻 Embedded Programming Languages
-
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Assembly](https://img.shields.io/badge/ARM_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🔧 Microcontrollers & Processors
+### ⚙️ Frameworks & Libraries
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![ARM Cortex](https://img.shields.io/badge/ARM_Cortex-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![8051](https://img.shields.io/badge/8051_μC-005073?style=for-the-badge&logo=intel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
-### 🖥️ EDA & FPGA Tools
+### 🗄️ Databases
 
-![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
-![Intel Quartus](https://img.shields.io/badge/Intel_Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![Cadence](https://img.shields.io/badge/Cadence_Virtuoso-FF0000?style=for-the-badge&logo=cadence&logoColor=white)
-![Synopsys](https://img.shields.io/badge/Synopsys_Design_Compiler-005073?style=for-the-badge&logo=synopsys&logoColor=white)
-![ModelSim](https://img.shields.io/badge/ModelSim-0078D4?style=for-the-badge&logo=mentor&logoColor=white)
-![LTSpice](https://img.shields.io/badge/LTSpice-9E0000?style=for-the-badge&logo=analog-devices&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 📡 Communication Protocols & Interfaces
+### ☁️ DevOps & Cloud
 
-![UART](https://img.shields.io/badge/UART-2C3E50?style=for-the-badge&logo=serial&logoColor=white)
-![SPI](https://img.shields.io/badge/SPI-1ABC9C?style=for-the-badge&logo=spi&logoColor=white)
-![I2C](https://img.shields.io/badge/I2C-E74C3C?style=for-the-badge&logo=i2c&logoColor=white)
-![CAN](https://img.shields.io/badge/CAN_Bus-F39C12?style=for-the-badge&logo=can&logoColor=white)
-![AXI](https://img.shields.io/badge/AXI_Bus-8E44AD?style=for-the-badge&logo=arm&logoColor=white)
-![AMBA](https://img.shields.io/badge/AMBA-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 🔬 Lab & Measurement Tools
+### 🔗 APIs & Protocols
 
-![Oscilloscope](https://img.shields.io/badge/Oscilloscope-27AE60?style=for-the-badge&logo=oscilloscope&logoColor=white)
-![Logic Analyzer](https://img.shields.io/badge/Logic_Analyzer-2980B9?style=for-the-badge&logo=saleae&logoColor=white)
-![Multimeter](https://img.shields.io/badge/Multimeter-E67E22?style=for-the-badge&logo=fluke&logoColor=white)
-![Kicad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-00A86B?style=for-the-badge&logo=proteus&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🧠 CS Fundamentals
+
+![Data Structures](https://img.shields.io/badge/Data_Structures-8B0000?style=for-the-badge&logo=leetcode&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF4500?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-4B0082?style=for-the-badge&logo=python&logoColor=white)
+![OS](https://img.shields.io/badge/Operating_Systems-2C3E50?style=for-the-badge&logo=linux&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Networking](https://img.shields.io/badge/Computer_Networks-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
@@ -122,16 +122,16 @@ endmodule
 
 <div align="center">
 
-| **Semiconductor Giants** | **Fabless Chip Companies** | **EDA & IP Vendors** |
+| **Product-Based Giants** | **High-Growth Startups** | **Tech Unicorns** |
 |:---:|:---:|:---:|
-| 🔵 Intel (VLSI / Embedded) | 🟢 Qualcomm | 🔴 Cadence Design Systems |
-| 🟠 Texas Instruments | 🟣 NVIDIA (GPU Architecture) | 🔵 Synopsys |
-| 🔵 STMicroelectronics | 🔴 MediaTek | 🟤 Mentor (Siemens EDA) |
-| 🟡 NXP Semiconductors | 🟡 Marvell Technology | 🟢 ARM Holdings |
-| 🟤 Microchip Technology | 🔵 Broadcom | 🔵 Ansys (Signal Integrity) |
+| 🔵 Google | 🟢 Zepto / Blinkit | 🟣 Razorpay |
+| 🟠 Microsoft | 🔵 CRED | 🔴 PhonePe |
+| 🔵 Amazon (AWS) | 🟡 Groww | 🟤 Meesho |
+| 🟢 Zoho / Freshworks | 🔴 Swiggy / Zomato | 🟢 Flipkart |
+| 🟡 Oracle | 🟣 Postman | 🔵 Atlassian |
 
 **🔧 Roles of Interest:**
-`RTL Design Engineer` • `Embedded Firmware Engineer` • `FPGA Developer` • `Verification Engineer` • `SoC Design Engineer` • `Physical Design Engineer` • `DSP Engineer`
+`Backend Developer` • `Python Developer` • `Software Development Engineer` • `API Engineer` • `Platform Engineer` • `Site Reliability Engineer`
 
 </div>
 
@@ -141,51 +141,63 @@ endmodule
 
 <div align="center">
 
-| 🔌 Project | 📝 Description | 🔗 Link |
+| 🖥️ Project | 📝 Description | 🔗 Link |
 |:---:|:---:|:---:|
-| **🧮 ALU Design** | 8-bit ALU in Verilog with full testbench & waveform simulation | *Coming Soon* |
-| **🚦 Traffic Light FSM** | FSM-based traffic controller on FPGA (Xilinx Basys3) | *Coming Soon* |
-| **📡 UART Controller** | UART Tx/Rx module in SystemVerilog with UVM verification | *Coming Soon* |
-| **🤖 Embedded IoT Project** | ESP32-based IoT sensor node with MQTT & low-power modes | *Coming Soon* |
-| **⚡ RISC-V Core** | 5-stage pipelined RISC-V processor (RV32I) in Verilog | *Coming Soon* |
-| **🔋 Low Power SoC Study** | Analysis of clock gating & power domains in ARM Cortex-M0 | *Coming Soon* |
+| **🔐 Auth Service** | JWT-based authentication microservice with FastAPI + Redis token blacklisting | *Coming Soon* |
+| **📦 REST API Boilerplate** | Production-ready Django REST Framework starter with Docker, CI/CD, Swagger docs | *Coming Soon* |
+| **📊 URL Shortener** | High-throughput URL shortener with analytics — FastAPI + PostgreSQL + Redis cache | *Coming Soon* |
+| **💬 Chat Backend** | Real-time WebSocket chat server with message persistence using Django Channels | *Coming Soon* |
+| **🛒 E-Commerce API** | Full CRUD e-commerce REST API with role-based access control & order management | *Coming Soon* |
+| **📈 DSA Solutions** | 200+ LeetCode solutions in Python, categorized by topic with time/space analysis | *Coming Soon* |
 
 </div>
 
 ---
 
-## 📡 Domains & Specializations
+## 🗺️ Backend Engineering Roadmap
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│                     ECE SPECIALIZATION MAP                              │
+│                     BACKEND ENGINEERING MAP                             │
 │                                                                         │
-│   [VLSI Front-End] ──► RTL Design ──► Logic Synthesis ──► STA           │
+│   [Language]  ──► Python Core ──► OOP ──► Async/Await ──► Type Hints    │
 │         │                                                               │
 │         ▼                                                               │
-│   [VLSI Back-End] ──► Floorplan ──► P&R ──► Sign-Off ──► Tape-Out       │
+│   [Web Layer] ──► FastAPI / Django ──► REST APIs ──► Auth ──► Deploy    │
 │                                                                         │
-│   [Embedded]  ──► Bare Metal C ──► RTOS ──► BSP ──► Application         │
+│   [Data Layer] ──► PostgreSQL ──► ORM ──► Indexing ──► Query Optimize   │
 │         │                                                               │
 │         ▼                                                               │
-│   [FPGA Flow] ──► RTL ──► Synthesis ──► Implementation ──► Bitstream    │
+│   [Scale Layer] ──► Redis Cache ──► Celery Tasks ──► Message Queues     │
 │                                                                         │
-│   [Verification] ──► Testbench ──► Coverage ──► Assertions ──► Sign-Off │
+│   [Infra Layer] ──► Docker ──► CI/CD ──► Cloud (AWS) ──► Monitoring     │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
+## 📊 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/)
+
+</div>
+
+---
 
 ## 💬 Engineering Wisdom
 
 <div align="center">
 
-> *"Hardware is hard — but that's exactly why we love it."*
+> *"Make it work, make it right, make it fast — in that order."*
 
-> *"An engineer who understands both the transistor and the system is unstoppable."*
+> *"A backend engineer who understands the database is worth ten who don't."*
 
-> *"First, make it work. Then, make it work at 500 MHz."*
+> *"The best code is the code you never have to debug at 2 AM."*
 
 </div>
 
@@ -195,30 +207,26 @@ endmodule
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soundhar-kumar-Embedded-engineer)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soundharkumar7019@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soundhar-7019)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev)
 
-📧 **Email:** soundharkumar7019@gmail.com
-💼 **LinkedIn:** [linkedin.com/in/soundhar-kumar](https://linkedin.com/in/soundhar-kumar-Embedded-engineer)
+```python
+def reach_out():
+    contact = {
+        "email":    "your-email@gmail.com",
+        "linkedin": "linkedin.com/in/your-profile",
+        "github":   "github.com/your-username",
+        "status":   "Open to opportunities 🟢"
+    }
+    return f"Ping me anytime → {contact['email']}"
 
-```
-> ping soundhar-kumar --port=linkedin
-  Reply from soundhar-kumar: bytes=32 time<1ms RTT=instant
-  Connection established. Ready to collaborate. ✓
+print(reach_out())
+# Output: Ping me anytime → your-email@gmail.com
 ```
 
 </div>
-
----
-
-## ☕ Support My Hardware Journey
-
-<div align="center">
-
-If you find my projects useful or want to support my path into VLSI/Embedded:
-
-<a href="https://www.buymeacoffee.com/yourusername" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="180px"></a>
 
 ---
 
@@ -226,14 +234,12 @@ If you find my projects useful or want to support my path into VLSI/Embedded:
 
 ### 📊 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=soundhar-7019&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=4f46e5&style=for-the-badge&label=PROFILE+VIEWS)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:1a1a4e,100:000000&height=120&section=footer" width="100%"/>
 
+**`# From Clean Code to Scalable Systems — One Commit at a Time`**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:004d00,100:000000&height=120&section=footer" width="100%"/>
-
-**`// From Silicon to System — One Commit at a Time`**
-
-[![GitHub](https://img.shields.io/badge/Built_with-⚡_Passion_for_Hardware-00ff41?style=for-the-badge)](https://github.com/soundhar-7019)
+[![GitHub](https://img.shields.io/badge/Built_with-🐍_Python_%26_Passion-4f46e5?style=for-the-badge)](https://github.com/your-username)
 
 </div>
