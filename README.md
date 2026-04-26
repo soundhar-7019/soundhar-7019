@@ -1,245 +1,190 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0d2b,80:1a1a4e,100:4f46e5&height=220&section=header&text=S.K.Soundhar&fontSize=52&fontColor=a78bfa&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20Engineer%20%7C%20CS%20Undergraduate&descAlignY=60&descSize=18&descColor=818cf8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d2137,100:0a3d62&height=200&section=header&text=Soundhar%20Kumar&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=B.Tech%20ECE%20Undergraduate%20%7C%20Embedded%20Systems%20%7C%20&descAlignY=60&descSize=16&descColor=8b949e" width="100%"/>
 
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&background=000000&center=true&vCenter=true&random=false&width=900&lines=Backend+Engineer+in+the+Making;Python+%7C+Django+%7C+FastAPI+%7C+REST+APIs;Database+Design+%26+System+Architecture;DSA+%7C+Problem+Solving+%7C+Clean+Code;From+Code+to+Cloud+—+Building+Scalable+Systems" alt="Typing SVG" />
+<!-- 3D Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=B.Tech+Electronics+%26+Communication+Engineering;Aspiring+Embedded+Systems+Engineer+%F0%9F%9A%80;Learning+C+%7C+Verilog+%7C+Microcontrollers;Future+Embedded+%2F+VLSI+Engineer" alt="Typing SVG" />
 
----
-
-## ⚡ `$ whoami`
-
-<img align="right" alt="Coding Animation" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```python
-class SKSoundhar:
-    def __init__(self):
-        self.name        = "S.K. Soundhar"
-        self.degree      = "B.E. / B.Tech — Computer Science"
-        self.location    = "Tamil Nadu, India"
-        self.role        = "Aspiring Backend Developer"
-
-    @property
-    def interests(self) -> list[str]:
-        return [
-            "Backend System Design",
-            "REST & GraphQL APIs",
-            "Database Engineering",
-            "Cloud Infrastructure",
-            "DevOps & CI/CD",
-            "Distributed Systems",
-            "Open Source Contribution",
-        ]
-
-    def current_status(self) -> str:
-        return "Grinding DSA + Building Projects + Applying for Jobs 🚀"
-
-    def life_goal(self) -> str:
-        return "Write code that scales to millions. ∞"
-
-me = SKSoundhar()
-print(me.current_status())
-# Output: Grinding DSA + Building Projects + Applying for Jobs 🚀
-```
-
-🐍 **Driven by** clean architecture, scalable APIs, and back-end logic that just works
-
-🏆 **Targeting** Backend Developer | Python Engineer | Software Development Engineer roles at product-based companies
-
-🧩 **Expert in** Python ecosystem — from scripting to production-grade web services
-
-📚 **Currently preparing for** SDE Campus Placements | FAANG Off-Campus | Core CS Interviews
-
-🔍 **Core strengths** — REST API design, ORM-based DB modeling, problem solving, and writing readable, maintainable code
-
-⚡ **Love for** terminal windows, clean git histories, and services that handle 10x the expected load
-
-<br clear="right"/>
-
----
-
-## 🛠️ Backend & Software Toolkit
-
-<div align="center">
-
-### 🐍 Core Languages
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### ⚙️ Frameworks & Libraries
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-
-### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### ☁️ DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### 🔗 APIs & Protocols
-
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🧠 CS Fundamentals
-
-![Data Structures](https://img.shields.io/badge/Data_Structures-8B0000?style=for-the-badge&logo=leetcode&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-FF4500?style=for-the-badge&logo=thealgorithms&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-4B0082?style=for-the-badge&logo=python&logoColor=white)
-![OS](https://img.shields.io/badge/Operating_Systems-2C3E50?style=for-the-badge&logo=linux&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Networking](https://img.shields.io/badge/Computer_Networks-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+<!-- 3D Rotating Circuit GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="420" alt="Circuit Animation"/>
 
 </div>
 
 ---
 
-## 🎯 Target Companies & Roles
+## 👋 Hi, I'm Soundhar
 
-<div align="center">
+I'm a **B.Tech ECE undergraduate** from Tamil Nadu, India — at the very beginning of my journey into **Embedded Systems and VLSI Design**.
 
-| **Product-Based Giants** | **High-Growth Startups** | **Tech Unicorns** |
-|:---:|:---:|:---:|
-| 🔵 Google | 🟢 Zepto / Blinkit | 🟣 Razorpay |
-| 🟠 Microsoft | 🔵 CRED | 🔴 PhonePe |
-| 🔵 Amazon (AWS) | 🟡 Groww | 🟤 Meesho |
-| 🟢 Zoho / Freshworks | 🔴 Swiggy / Zomato | 🟢 Flipkart |
-| 🟡 Oracle | 🟣 Postman | 🔵 Atlassian |
+I started this GitHub to document everything I learn and build from scratch. Right now I'm focused on getting the fundamentals right: understanding how hardware works, writing my first C programs, and simulating basic digital circuits.
 
-**🔧 Roles of Interest:**
-`Backend Developer` • `Python Developer` • `Software Development Engineer` • `API Engineer` • `Platform Engineer` • `Site Reliability Engineer`
+This profile will grow as I grow. That's the whole point.
 
-</div>
+```c
+/* who_am_i.c */
 
----
+#define NAME      "Soundhar Kumar"
+#define DEGREE    "B.Tech Electronics & Communication Engineering"
+#define LOCATION  "Tamil Nadu, India"
+#define DIRECTION "Embedded Systems & VLSI Design"
 
-## 📂 Featured Projects
-
-<div align="center">
-
-| 🖥️ Project | 📝 Description | 🔗 Link |
-|:---:|:---:|:---:|
-| **🔐 Auth Service** | JWT-based authentication microservice with FastAPI + Redis token blacklisting | *Coming Soon* |
-| **📦 REST API Boilerplate** | Production-ready Django REST Framework starter with Docker, CI/CD, Swagger docs | *Coming Soon* |
-| **📊 URL Shortener** | High-throughput URL shortener with analytics — FastAPI + PostgreSQL + Redis cache | *Coming Soon* |
-| **💬 Chat Backend** | Real-time WebSocket chat server with message persistence using Django Channels | *Coming Soon* |
-| **🛒 E-Commerce API** | Full CRUD e-commerce REST API with role-based access control & order management | *Coming Soon* |
-| **📈 DSA Solutions** | 200+ LeetCode solutions in Python, categorized by topic with time/space analysis | *Coming Soon* |
-
-</div>
-
----
-
-## 🗺️ Backend Engineering Roadmap
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                     BACKEND ENGINEERING MAP                             │
-│                                                                         │
-│   [Language]  ──► Python Core ──► OOP ──► Async/Await ──► Type Hints    │
-│         │                                                               │
-│         ▼                                                               │
-│   [Web Layer] ──► FastAPI / Django ──► REST APIs ──► Auth ──► Deploy    │
-│                                                                         │
-│   [Data Layer] ──► PostgreSQL ──► ORM ──► Indexing ──► Query Optimize   │
-│         │                                                               │
-│         ▼                                                               │
-│   [Scale Layer] ──► Redis Cache ──► Celery Tasks ──► Message Queues     │
-│                                                                         │
-│   [Infra Layer] ──► Docker ──► CI/CD ──► Cloud (AWS) ──► Monitoring     │
-└─────────────────────────────────────────────────────────────────────────┘
+void my_plan() {
+    learn_the_fundamentals();   /* C, digital logic, Verilog */
+    build_small_projects();     /* Arduino, ESP32, simulations */
+    understand_the_hardware();  /* how transistors become systems */
+    keep_showing_up();          /* every single day */
+}
 ```
 
 ---
 
-## 📊 Coding Profiles
+## 💬 Quote I Live By
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/)
+> *"An engineer who understands both the transistor and the system is unstoppable."*
+
+> *"First, make it work. Then, make it work at 500 MHz."*
 
 </div>
 
 ---
 
-## 💬 Engineering Wisdom
+## 🗺️ Where I'm Headed
 
-<div align="center">
+I'm not there yet — but I know exactly where I want to go.
 
-> *"Make it work, make it right, make it fast — in that order."*
+**Target roles (as a fresher):**
+- `Embedded Firmware Engineer` — writing drivers and bare-metal code
+- `RTL Design Engineer` — building digital hardware in Verilog/VHDL
+- `FPGA Developer` — implementing logic on programmable hardware
+- `Verification Engineer` — testing and validating chip designs
 
-> *"A backend engineer who understands the database is worth ten who don't."*
+**Target companies:** Texas Instruments · STMicroelectronics · NXP · Intel · Qualcomm · Cadence · Synopsys · ISRO · Indian semiconductor startups
 
-> *"The best code is the code you never have to debug at 2 AM."*
+---
 
-</div>
+## 🛠️ Skills
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verilog-FF6B35?style=for-the-badge&logo=v&logoColor=white"/>
+</p>
+
+### 🔧 Microcontrollers & Boards
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+</p>
+
+### 🖥️ EDA & Simulation Tools
+<p>
+  <img src="https://img.shields.io/badge/ModelSim-0078D4?style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proteus-00A86B?style=for-the-badge&logo=proteus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LTSpice-9E0000?style=for-the-badge&logo=analog-devices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
+</p>
+
+### ⚙️ IDEs & Editors
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
+
+### 📡 Protocols (Learning)
+<p>
+  <img src="https://img.shields.io/badge/UART-2C3E50?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SPI-1ABC9C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/I2C-E74C3C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPIO-F39C12?style=for-the-badge&logoColor=white"/>
+</p>
+
+> Listing only what I've actually touched. No inflated badges — just honesty.
+
+---
+
+## 📚 What I'm Learning Right Now
+
+```
+[████░░░░░░]  Starting   C Programming (syntax, pointers, memory)
+[███░░░░░░░]  Starting   Digital Logic (gates, flip-flops, FSMs)
+[██░░░░░░░░]  Starting   Verilog basics (modules, always blocks)
+[█░░░░░░░░░]  Exploring  Arduino & basic microcontroller concepts
+```
+
+**Resources I'm working through:**
+- *The C Programming Language* — Kernighan & Ritchie
+- *Digital Design* — Morris Mano
+- Nandland — FPGA/Verilog tutorials
+- NPTEL — Digital Circuits
+- YouTube: Phil's Lab, EEVblog, Last Minute Engineers
+
+---
+
+## 🔧 Tools I'm Getting Familiar With
+
+| Category | Tools |
+|---|---|
+| **Languages** | C (learning), Verilog (learning) |
+| **Simulation** | Proteus, ModelSim (setting up) |
+| **Microcontrollers** | Arduino (exploring) |
+| **IDE / Editor** | VS Code, Arduino IDE |
+| **Concepts** | Digital logic, basic circuits, Ohm's Law |
+
+---
+
+## 📂 Projects
+
+> Nothing here yet — but this section will fill up. Watch this space.
+
+| Project | Description | Status |
+|---|---|---|
+| 🚦 Traffic Light FSM | Basic FSM in Verilog — my first HDL project | 📋 Planning |
+| 💡 LED Blink (Arduino) | The classic first step | 📋 Planning |
+| 🌡️ Temperature Sensor | Read DHT11, display on Serial Monitor | 📋 Planning |
+| 📟 UART Transmitter | Verilog Tx module with testbench | 📋 Planning |
+
+I'm building these one at a time. Each one will have its own README explaining what I learned.
+
+---
+
+## 💡 Why Embedded Systems?
+
+Because software runs *on* hardware — and I want to understand the hardware.
+
+I want to know what happens at the transistor level, how a microcontroller actually reads a sensor, why timing matters, and how an RTL design goes all the way to silicon. That depth is what drew me to ECE.
 
 ---
 
 ## 🤝 Connect With Me
 
-<div align="center">
+Happy to connect with students on the same path, seniors who can share advice, or anyone who loves hardware.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev)
+<p>
+  <a href="https://linkedin.com/in/soundhar-kumar-Embedded-engineer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:soundharkumar7019@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/soundhar-7019">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-```python
-def reach_out():
-    contact = {
-        "email":    "your-email@gmail.com",
-        "linkedin": "linkedin.com/in/your-profile",
-        "github":   "github.com/your-username",
-        "status":   "Open to opportunities 🟢"
-    }
-    return f"Ping me anytime → {contact['email']}"
-
-print(reach_out())
-# Output: Ping me anytime → your-email@gmail.com
-```
-
-</div>
+📧 soundharkumar7019@gmail.com
 
 ---
 
 <div align="center">
 
-### 📊 Profile Views
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,50:0d2137,100:0a0a0a&height=100&section=footer" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=4f46e5&style=for-the-badge&label=PROFILE+VIEWS)
+*"Every expert was once a beginner. I'm just being honest about where I am."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:1a1a4e,100:000000&height=120&section=footer" width="100%"/>
-
-**`# From Clean Code to Scalable Systems — One Commit at a Time`**
-
-[![GitHub](https://img.shields.io/badge/Built_with-🐍_Python_%26_Passion-4f46e5?style=for-the-badge)](https://github.com/your-username)
+![Profile Views](https://komarev.com/ghpvc/?username=soundhar-7019&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
